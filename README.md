@@ -55,14 +55,13 @@ The code is organized to be easy to customize and redeploy for your own personal
 - Node.js (recommended >= 18)
 - A package manager (npm, pnpm, or yarn). This project was developed with pnpm/bun in mind but works with npm as well.
 
-> Note: The project includes a `bun.lockb` in the repo, but the scripts shown below use the standard npm scripts. You can use bun or pnpm if you prefer.
 
 ### Install
 
 1. Clone the repo
 
-   git clone https://github.com/12liyab/paakwasi-dot-dev.git
-   cd paakwasi-dot-dev
+   git clone https://github.com/12liyab/AboutPaaKwasi
+   cd AboutPaaKwasi
 
 2. Install dependencies
 
