@@ -15,7 +15,7 @@ import dvlaImage from "@/assets/projects/dvla.png";
 import kturesturantImage from "@/assets/projects/kturesturant.png";
 import AitutorImage from "@/assets/projects/Aitutor.png";
 import netflixcloneImage from "@/assets/projects/netflixclone.png";
-import apolloQLImage from "@/assets/projects/apolloql.png";
+import apolloQLImage from "@/assets/projects/apolloQL.png";
 
 
 const techLogos: Record<string, string> = {
