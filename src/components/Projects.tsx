@@ -13,7 +13,7 @@ import manisImage from "@/assets/projects/manis.png";
 import liyabImage from "@/assets/projects/liyab.png";
 import dvlaImage from "@/assets/projects/dvla.png";
 import kturesturantImage from "@/assets/projects/kturesturant.png";
-import AitutorImage from "@/assets/projects/aitutor.png";
+import AitutorImage from "@/assets/projects/Aitutor.png";
 import netflixcloneImage from "@/assets/projects/netflixclone.png";
 import apolloQLImage from "@/assets/projects/apolloql.png";
 
