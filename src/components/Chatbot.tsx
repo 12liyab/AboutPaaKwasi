@@ -84,7 +84,7 @@ const Chatbot = () => {
     } else if (lowerInput.includes("project") || lowerInput.includes("work") || lowerInput.includes("portfolio")) {
       return "Liyab has worked on amazing projects like:\n• LIYAB - Creative platform\n• Prevail - Task management\n• Enabled - Accessibility tools\n• Print Palace, MSDEES, and more!\n\nScroll down to the Projects section to see them all with live demos! 🚀";
     } else if (lowerInput.includes("skill") || lowerInput.includes("tech") || lowerInput.includes("stack")) {
-      return "Liyab's tech stack includes:\n• Frontend: React, TypeScript, Tailwind CSS\n• Backend: Node.js, Supabase\n• Tools: Git, Vite, Modern DevOps\n\nCheck the About section for the complete list! 💻";
+      return "Liyab's tech stack includes:\n• Frontend: React, TypeScript, C#, C++, Java, Tailwind CSS\n• Backend: Node.js, Supabase, MongoDB, SQL, QraphQL\n• Tools: Git, Vite, Modern DevOps\n\nCheck the About section for the complete list! 💻";
     } else if (lowerInput.includes("contact") || lowerInput.includes("email") || lowerInput.includes("reach")) {
       return "You can connect with Liyab through:\n• Contact form on this page 📧\n• LinkedIn profile 💼\n• GitHub repositories 🐙\n\nJust scroll to the Contact section below!";
     } else if (lowerInput.includes("experience") || lowerInput.includes("background") || lowerInput.includes("resume")) {

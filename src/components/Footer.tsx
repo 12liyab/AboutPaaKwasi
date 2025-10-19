@@ -15,7 +15,8 @@ const Footer = () => {
               Liyab
             </h3>
             <p className="text-muted-foreground text-sm">
-              Full Stack Developer crafting exceptional digital experiences
+              Full Stack Developer crafting exceptional digital experiences with modern web technologies. <br />
+              Modern DevOps enthusiast.
             </p>
           </div>
 
@@ -91,7 +92,7 @@ const Footer = () => {
         {/* Bottom Bar */}
         <div className="pt-8 border-t border-border/50 text-center text-sm text-muted-foreground">
           <p>
-            © {new Date().getFullYear()} Liyab. Built with ❤️ using TypeScript & Tailwind CSS
+            © {new Date().getFullYear()} Liyab. All rights reserved.
           </p>
         </div>
       </div>

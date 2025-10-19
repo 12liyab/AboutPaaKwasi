@@ -12,6 +12,11 @@ import printpalaceImage from "@/assets/projects/printpalace.png";
 import manisImage from "@/assets/projects/manis.png";
 import liyabImage from "@/assets/projects/liyab.png";
 import dvlaImage from "@/assets/projects/dvla.png";
+import kturesturantImage from "@/assets/projects/kturesturant.png";
+import AitutorImage from "@/assets/projects/aitutor.png";
+import netflixcloneImage from "@/assets/projects/netflixclone.png";
+import apolloQLImage from "@/assets/projects/apolloql.png";
+
 
 const techLogos: Record<string, string> = {
   "React": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg",
@@ -55,7 +60,7 @@ const projects = [
     type: "Non-profit Website",
     description: "Non-profit organization website focused on community development initiatives.",
     link: "https://prevailfoundation.org/",
-    tech: ["React", "Node.js"],
+    tech: ["React", "CSS", "JavaScript"],
     image: prevailImage
   },
   {
@@ -105,7 +110,39 @@ const projects = [
     link: "https://clif-foundation.org/",
     tech: ["React", "Tailwind CSS"],
     image: clifImage
-  }
+  },
+  {
+    title: "Apollo GraphQL",
+    type: "Full Stack Project",
+    description: "GraphQL-based platform for efficient data querying and management.",
+    link: "https://github.com/12liyab/graphql-crash-course",
+    tech: ["React", "GraphQL", "Node.js"],
+    image: apolloQLImage
+  },
+  {
+    title: "Restaurant Management System",
+    type: "Full Stack Project",
+    description: "Comprehensive restaurant management system for orders, inventory, and staff.",
+    link: "https://github.com/12liyab",
+    tech: ["React", "Node.js", "MongoDB"],
+    image: kturesturantImage
+  },
+   {
+    title: "AI Tutor Platform",
+    type: "Full Stack Project",
+    description: "AI-powered tutoring platform offering personalized learning experiences.",
+    link: "https://github.com/12liyab/AiTutor",
+    tech: ["React", "Node.js", "MongoDB"],
+    image: AitutorImage
+  },
+  {
+    title: "Netflix Clone",
+    type: "Full Stack Project",
+    description: "A clone of the Netflix streaming platform with user authentication and media browsing features.",
+    link: "https://github.com/12liyab",
+    tech: ["React", "Node.js", "MongoDB"],
+    image: netflixcloneImage
+  },
 ];
 
 const Projects = () => {

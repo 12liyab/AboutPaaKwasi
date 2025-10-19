@@ -23,6 +23,17 @@ const experiences = [
       "Performed database optimization and integration with third-party services"
     ]
   },
+
+   {
+    company: "thenovus.Solutions",
+    role: "DevOps Engineer",
+    period: "2025 - Present",
+    responsibilities: [
+      "Design, build, and maintain CI/CD pipelines (using GitHub Actions, GitLab)",
+      "Integrate security scanning tools in pipelines (Snyk, SonarQube, OWASP)",
+      "Improve build times and deployment efficiency"
+    ]
+  }
    
 ];
 

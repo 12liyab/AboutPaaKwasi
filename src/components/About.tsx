@@ -62,6 +62,11 @@ const About = () => {
                   development at <span className="text-primary font-semibold">Coldsis Ghana Limited</span> and{" "}
                   <span className="text-primary font-semibold">Thenovus.Solutions</span>, I bring a solid 
                   blend of creativity and technical depth to every project.
+                  My work extends beyond coding I incorporate
+                  DevOps principles to enable smooth integration, automated deployments,
+                  and system reliability. Skilled in CI/CD (GitHub Actions, Jenkins),
+                  containerization (Docker, Kubernetes), and cloud services (AWS, Azure), I ensure seamless 
+                  collaboration between development and operations while optimizing performance and uptime.
                 </p>
                 
                 <Button 

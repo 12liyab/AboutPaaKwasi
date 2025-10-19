@@ -59,7 +59,7 @@ const Hero = () => {
           </h1>
           
           <h2 className="text-2xl md:text-4xl font-semibold text-muted-foreground animate-fade-in" style={{ animationDelay: "0.2s" }}>
-            Full Stack Developer building scalable digital experiences
+            Full Stack Developer & DevOps Enthusiast
           </h2>
           
           <p className="text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto animate-fade-in" style={{ animationDelay: "0.4s" }}>
